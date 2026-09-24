@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bitstamp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bitstamp MCP (public endpoints).",
   "type": "module",
   "main": "src/index.ts",
@@ -22,6 +22,11 @@
     "tsx": "^4.19.0"
   },
   "devDependencies": {
-    "typescript": "^5.7.0"
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-e04a640eadb03c67f15d68867da56b35dee487079f328f8db38666868183295e",
+    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
   }
 }
