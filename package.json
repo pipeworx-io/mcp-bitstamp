@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-bitstamp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bitstamp MCP (public endpoints).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "bitstamp",
     "gatewaySlug": "bitstamp",
-    "sourceHash": "v1-836bf69ddd44b2d359b42a97a703de4ef1be0e2dae57581e5291201c63f7eafb",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-4bcb5ab1edf5ddda04053c69ef2b6d541ec430c08554a4f65e3cbbd19635f563",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
